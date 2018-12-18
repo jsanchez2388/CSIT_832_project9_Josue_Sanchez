@@ -1,0 +1,186 @@
+-----Test Run -----
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 1
+Enter title [Instructor (I or i), TA (T or t), or Student (S or s)]: s
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+Print Job #1 Student
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 2
+Now printing job #1 Student
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+No items in queue
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 2
+There are no jobs to print out
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 1
+Enter title [Instructor (I or i), TA (T or t), or Student (S or s)]: t
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+Print Job #1 TA
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 1
+Enter title [Instructor (I or i), TA (T or t), or Student (S or s)]: s
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+Print Job #1 TA
+Print Job #2 Student
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 1
+Enter title [Instructor (I or i), TA (T or t), or Student (S or s)]: I
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+Print Job #3 Instructor
+Print Job #1 TA
+Print Job #2 Student
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 1
+Enter title [Instructor (I or i), TA (T or t), or Student (S or s)]: t
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+Print Job #3 Instructor
+Print Job #1 TA
+Print Job #4 TA
+Print Job #2 Student
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 2
+Now printing job #3 Instructor
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+Print Job #1 TA
+Print Job #4 TA
+Print Job #2 Student
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 2
+Now printing job #1 TA
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+Print Job #4 TA
+Print Job #2 Student
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 2
+Now printing job #4 TA
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+Print Job #2 Student
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 2
+Now printing job #2 Student
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 3
+No items in queue
+Print Queue
+============
+1. Add job
+2. Print job
+3. View jobs
+4. Exit
+Enter choice: 4
+Press any key to continue . . .
